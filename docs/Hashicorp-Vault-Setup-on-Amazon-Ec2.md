@@ -1,14 +1,12 @@
-Hashicorp Vault Setup on Amazon Ec2
+# Hashicorp Vault Setup on Amazon Ec2
 
 In this tutorial, you will learn how to set up a Hashicorp vault server
 on an Amazon ec2 Linux server for secret management.
 
-Prerequisites:
+##Prerequisites:
 
 1.  A Linux ec2 instance.
-
 2.  Access to the ec2 instance over SSH.
-
 3.  In the Security group, port 8200 open to access vault UI, API, and
     SSH access.
 
